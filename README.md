@@ -46,6 +46,10 @@ This C++ project demonstrates basic operations on a singly linked list. The `Nod
 
 To use this project, you can include the `linkedlist.h` header file and use the provided functions in your C++ program. Ensure that you manage memory properly and call the `free_memory` function when needed.
 
+## Sample Test
+
+You can use the given main function below to test the library.
+
 ```cpp
 #include <iostream>
 #include "node.h"
@@ -179,4 +183,3 @@ int main() {
     }
     return 0;
 }
-
