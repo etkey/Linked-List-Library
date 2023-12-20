@@ -4,6 +4,8 @@
  * @author Enes Talha Keleş
  * @date Tuesday 19th December, 2023
  */
+#ifndef LINKEDLIST_H
+#define LINKEDLIST_H
 /**
  * @brief Node structure representing a single node in the linked list.
  */
@@ -166,3 +168,5 @@ Node *duplicate_list(Node *head);
  * @return Pointer to the new head of the reversed linked list.
  */
 Node *reverse_list(Node *head);
+
+#endif  
