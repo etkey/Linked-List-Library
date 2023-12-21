@@ -44,7 +44,10 @@ This C++ project demonstrates basic operations on a singly linked list. The `Nod
 
 ## Usage
 
-To use this project, you can include the `linkedlist.h` header file and use the provided functions in your C++ program. Ensure that you manage memory properly and call the `free_memory` function when needed.
+1. Include the `linkedlist.h` header file in your program.
+2. Compile your program with the `linkedlist.c` implementation file.
+3. Use the provided stack functions in your code for stack operations.
+4. Ensure that you manage memory properly and call the `free_memory` function when needed.
 
 ## Sample Test
 
